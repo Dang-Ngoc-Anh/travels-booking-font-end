@@ -4,7 +4,9 @@
 :root {
   --primary-color: #ff7e01;
   --secondary-color: #faa935;
-  --heading-color: #0b2727;
+  /* --primary-color: #074f72;
+  --secondary-color: #0779b1; */
+  --heading-color: #040d0d;
   --text-color: #6e7074;
   --font-name: "Montserrat", sans-serif;
   --subtitle-font-name: "Island Moments", cursive;
