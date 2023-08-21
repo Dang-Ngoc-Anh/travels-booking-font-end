@@ -6,6 +6,7 @@ import TourCard from '../share/TourCard';
 import SearchBar from '../share/SearchBar';
 import NewLetter from  '../share/NewLetter';
 import { Container, Row , Col} from 'reactstrap';
+
 const Tour = () => {
 
   const [pageCount , setPageCount] = useState(0);

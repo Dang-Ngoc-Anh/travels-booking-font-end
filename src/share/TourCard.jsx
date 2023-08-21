@@ -17,6 +17,7 @@ const TourCard = ({tour}) => {
         featured} = tour
 
         const {totalRating , avgRating} = calculatorAvgrating(reviews)
+        console.log( typeof photo);
   return (
     <div className='tour__card'>
         <Card>
